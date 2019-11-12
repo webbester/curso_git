@@ -2,7 +2,7 @@
     "name": "testegit",
     "version": "1.0.0",
     "description": "",
-    "comment": "Testando o git",
+    "comment": "Testando o git de novo",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
